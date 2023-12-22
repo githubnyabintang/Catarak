@@ -1,6 +1,6 @@
 # Catarak
 
-*About the Project*
+#About the Project#
 
 This is the final project from Bangkit 2023, about cataract detection in cats. As one of the requirements for graduation. Build an Model with Convolutional neural network, Crawling data cataract for dataset
 
