@@ -17,3 +17,6 @@ All Materials for Apps Development
 - Figma
 - Android Studio
 - Google Firebase
+
+Note
+This is the Machine Learning code for Catarak App To use this file, please upload the ipynb and Dataset to Google Colab
